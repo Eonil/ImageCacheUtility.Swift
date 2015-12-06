@@ -143,6 +143,7 @@
 		45EE18391C147213009FB3FD /* MemoryPressureMonitoringUtility.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MemoryPressureMonitoringUtility.swift; sourceTree = "<group>"; };
 		45EE183B1C147493009FB3FD /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		45EE183C1C147493009FB3FD /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		45EE183D1C14755F009FB3FD /* Package.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Package.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -208,6 +209,7 @@
 			children = (
 				45EE183B1C147493009FB3FD /* LICENSE */,
 				45EE183C1C147493009FB3FD /* README.md */,
+				45EE183D1C14755F009FB3FD /* Package.swift */,
 				458320151C14599700D2D664 /* ImageCacheUtility */,
 				458320211C14599700D2D664 /* ImageCacheUtilityTests */,
 				458320351C1459DC00D2D664 /* ImageCacheUtilityUI */,
