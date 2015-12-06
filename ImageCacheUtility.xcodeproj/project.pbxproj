@@ -141,6 +141,8 @@
 		458320B11C145BB200D2D664 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		458320B91C14635900D2D664 /* CoreImageUtility.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CoreImageUtility.swift; sourceTree = "<group>"; };
 		45EE18391C147213009FB3FD /* MemoryPressureMonitoringUtility.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MemoryPressureMonitoringUtility.swift; sourceTree = "<group>"; };
+		45EE183B1C147493009FB3FD /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		45EE183C1C147493009FB3FD /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -204,6 +206,8 @@
 		458320031C1455F400D2D664 = {
 			isa = PBXGroup;
 			children = (
+				45EE183B1C147493009FB3FD /* LICENSE */,
+				45EE183C1C147493009FB3FD /* README.md */,
 				458320151C14599700D2D664 /* ImageCacheUtility */,
 				458320211C14599700D2D664 /* ImageCacheUtilityTests */,
 				458320351C1459DC00D2D664 /* ImageCacheUtilityUI */,

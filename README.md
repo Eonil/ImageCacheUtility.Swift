@@ -1,2 +1,5 @@
 # ImageCacheUtility.Swift
-A utilities to cache images locally for iOS.
+
+Some utilities to cache images locally for iOS.
+
+Not tested yet extensively.
